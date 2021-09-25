@@ -1,5 +1,5 @@
-# Ineuron_pipy
-Ineuron_pipy
+# Ineuron_pypi
+Ineuron_pypi
 
 [Official python docs](https://packaging.python.org/tutorials/packaging-projects/)
 
